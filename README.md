@@ -17,5 +17,5 @@ En este curso se pretende ir a traves del siguiente conjunto de tópicos o área
 - Espíritu de la curiosidad
 
 ## Videos
-Dispones de un conjunto de videos relacionados al mundo del desarrollo de l software en mi canal de Youtube
+Dispones de un conjunto de videos relacionados al mundo del desarrollo de software en mi canal de Youtube
 [![Canal](img/ytb.png)]([https://](https://www.youtube.com/channel/UCmTo3RyFzlcox7lx0CVl3ww))
